@@ -9,4 +9,4 @@ ah man. why did @o5e7(discord) make this for u skids
 - be a cool boy w me
 
 ## Releases?
-1. not 1 yet la dud
+1. https://github.com/r3ntlovestodev/public-api-nd-dll-injection/releases/tag/cool
